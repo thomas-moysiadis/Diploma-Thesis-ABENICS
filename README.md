@@ -4,7 +4,7 @@ This project investigates the dynamic behavior of the ABENICS mechanism using tw
 
 ## Thesis Documents
 - [Full Diploma Thesis (Greek)](https://ikee.lib.auth.gr/record/368259/?ln=en)
-- [English Thesis Summary](docs/Diploma_Thesis_Summary_English.pdf)
+- [Diploma Thesis Summary (English)](docs/Diploma_Thesis_Summary_English.pdf)
 
 ## Workflow Overview
 - Analytical DAE simplified model (one sphere and two cylinders) with nonholonomic constraints (two no-slip conditions) and rigid body equations of motion
