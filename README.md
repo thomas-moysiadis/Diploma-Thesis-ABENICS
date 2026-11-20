@@ -26,12 +26,12 @@ This project investigates the dynamic behavior of the ABENICS mechanism using tw
   - `Python/`
     - `Single_Point_Simulation.py` - numerical integration of the analytical DAE model for simulation of the first scenario
     - `Multiple_Points_Simulation.py` - numerical integration of the analytical DAE model for simulation of the second scenario
-  - `Matlab/`
+  - `MATLAB/`
     - `Plots_Single_Point_Comparison.m` - comparison of analytical and MotionView model results for the first scenario
     - `Plots_Mutliple_Points_Comparison.m` - comparison of analytical and MotionView model results for the second scenario
 - `data/` - analytical model numerical integration results and MotionView output files
 
 ## How to Run
 - Run the Python scripts to simulate the analytical DAE model for each scenario
-- Run the Matlab comparison scripts to evaluate differences between the analytical and MotionView models
+- Run the MATLAB comparison scripts to evaluate differences between the analytical and MotionView models
 - Plots of generalized coordinates, velocities and accelerations, constraint violations, and internal forces are generated automatically
