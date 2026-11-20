@@ -1,6 +1,6 @@
-# Masters-Thesis-Code
+# Diploma-Thesis-Code
 
-This project investigates the dynamic behavior of the ABENICS mechanism using two independent models: an analytical multibody formulation with DAEs and a MotionView/MotionSolve model. Two motion scenarios are simulated using the published geometric control algorithm, and the results of both models are compared to evaluate modeling choices, dynamic consistency, and the physical behavior of the mechanism.
+This project investigates the dynamic behavior of the ABENICS mechanism using two independent models: an analytical multibody formulation with DAEs and an Altair MotionView-MotionSolve model. Two motion scenarios are simulated using the published geometric control algorithm, and the results of both models are compared to evaluate modeling choices, dynamic consistency, and the physical behavior of the mechanism.
 
 ## Workflow Overview
 - Analytical DAE simplified model (one sphere and two cylinders) with nonholonomic constraints (two no-slip conditions) and rigid body equations of motion
