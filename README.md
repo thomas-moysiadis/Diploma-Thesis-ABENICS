@@ -20,6 +20,8 @@ This project investigates the dynamic behavior of the ABENICS mechanism using tw
 - First dynamic‑focused comparison of ABENICS models under the original control strategy, highlighting limitations in both modeling approaches and in the mechanism’s actuation scheme
 
 ## Repository Contents
+- `docs/`
+  - `Diploma_Thesis_Summary_English.pdf` - English summary of the diploma thesis
 - `src/`
   - `Python/`
     - `Single_Point_Simulation.py` - numerical integration of the analytical DAE model for simulation of the first scenario
